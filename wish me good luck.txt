@@ -1,0 +1,2 @@
+good good study day day up
+java程序一定要有一个和.Java文件同名的主类，在其中定义main方法，否则编译通不过。javadoc在tools中可以打开来了解类的结构
